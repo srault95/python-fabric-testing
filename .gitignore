@@ -1,0 +1,10 @@
+*.py[co]
+*.spec
+*.log
+*.egg-info
+.tox
+.coverage
+.venv
+doc/_build
+dist
+archives/
